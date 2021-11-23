@@ -27,7 +27,7 @@ header {
 }
 
 .nav__menu img{
-  width: 5%;
+  width: 75px;
   position: fixed;
   top: 5px;
   right: 5px;
@@ -230,5 +230,8 @@ footer {
 
   .main__texto {
     width: auto;
+  }
+  .nav__menu img {
+    width: 50px;
   }
 }
